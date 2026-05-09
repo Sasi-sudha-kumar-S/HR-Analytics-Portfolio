@@ -19,6 +19,7 @@ I'm an MBA student specialising in **HR and Business Analytics**, passionate abo
 ---
 
 ## 🗂️ Repository Structure
+```plaintext
 HR-Analytics-Portfolio/
 │
 ├── 01-recruitment-tracker/
@@ -29,6 +30,7 @@ HR-Analytics-Portfolio/
 │   └── README.md
 │
 └── README.md
+```
 ---
 
 ## 🛠️ Tools & Skills
