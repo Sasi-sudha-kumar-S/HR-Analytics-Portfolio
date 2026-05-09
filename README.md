@@ -1,11 +1,44 @@
-# HR-Analytics-Portfolio
-A collection of my HR Analytics projects.
-# Project Overview
-This project is a comprehensive Recruitment Tracker built in Excel to streamline the end-to-end hiring process. It was designed to manage candidate pipelines efficiently, particularly for high-volume recruitment scenarios.
-# Key Features
-* Candidate Pipeline Management: Tracks candidates from initial application through to the final offer stage.
-* Automated Status Tracking: Uses dropdown menus to categorize candidate progress (e.g., Screened, Interviewed, Offered, Rejected).
-* Data Accuracy: Structured to maintain clean data for further analysis in tools like Power BI or SQL.
-* Recruitment Metrics: Designed to calculate key KPIs such as "Time-to-Hire" and "Source Effectiveness."
-# Business Value
-As an MBA student specializing in HR and Business Analytics, I developed this tool to bridge the gap between manual recruitment tasks and data-driven decision-making. This tracker ensures that no candidate is lost in the process and provides a clear view of the hiring funnel at any given time.
+# 📊 HR Analytics Portfolio
+
+> A curated collection of HR Analytics projects that bridge data-driven thinking with people strategy. Built to document my learning journey and demonstrate practical HR analytics skills to recruiters and hiring teams.
+
+---
+
+## 👩‍💼 About Me
+
+I'm an MBA student specialising in **HR and Business Analytics**, passionate about turning workforce data into actionable decisions. This portfolio reflects my hands-on work with tools like **Excel** and **Power BI** to solve real HR problems.
+
+---
+
+## 📁 Projects
+
+| # | Project | Tools | Status |
+|---|---------|-------|--------|
+| 01 | [Recruitment Tracker](./01-recruitment-tracker/) | Excel | ✅ Complete |
+
+---
+
+## 🗂️ Repository Structure
+HR-Analytics-Portfolio/
+│
+├── 01-recruitment-tracker/
+│   ├── data/
+│   │   └── Recruitment_Tracker.xlsx
+│   ├── docs/
+│   │   └── project-overview.md
+│   └── README.md
+│
+└── README.md
+---
+
+## 🛠️ Tools & Skills
+
+- **Excel** — Data structuring, dropdowns, formula-based KPI tracking
+- **Power BI** — Dashboard design, DAX measures, data modelling
+- **HR Domain** — Recruitment lifecycle, workforce metrics, hiring analytics
+
+---
+
+## 📬 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sasi--sudha--kumar--S-181717?logo=github)](https://github.com/Sasi-sudha-kumar-S)
